@@ -3,7 +3,7 @@ Overview
 
 This project evaluates the performance of different surrogate modeling techniques for predicting outcomes of high-dimensional systems when experimental data is scarce.
 
-In many real-world engineering systems—such as semiconductor manufacturing processes—running experiments can be expensive and time-consuming. Instead of performing a large number of experiments, surrogate models can approximate the relationship between input variables and system outputs using a limited dataset.
+In many real-world engineering systems such as semiconductor manufacturing processes running experiments can be expensive and time-consuming. Instead of performing a large number of experiments, surrogate models can approximate the relationship between input variables and system outputs using a limited dataset.
 
 This project benchmarks several machine learning models to study how efficiently they learn from small datasets.
 
